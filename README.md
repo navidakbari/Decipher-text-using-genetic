@@ -1,7 +1,7 @@
 
 <img src="Images/1200px-University_of_Tehran_logo.svg.png" width="100" align="left"/>
 
-<img src="Images/fanni.png" width="120" align="right"/>
+<img src="Images/fanni.png" width="100" align="right"/>
 
 
 <h1 style="float:center;" align="center">Computer Assignment 2</h1>
